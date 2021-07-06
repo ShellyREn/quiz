@@ -4,7 +4,7 @@ OOP classes and inheritance:
 
 Assertions are used to test whether the function outputs satisfy our goal.
 For example, assert(type(bird1) == Bird). This means the type of bird1 should be "Bird".
-Remember, whatever is inside the bracket should be TRUE to pass the assertion.
+Remember, whatever inside the bracket should be TRUE to pass the assertion.
 
 Read the test case (assertions) to see what each function should do!
 
